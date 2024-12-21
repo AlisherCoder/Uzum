@@ -23,7 +23,7 @@ a{
 .left-right{
     display: flex;
     justify-content: space-between;
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
 }
 
@@ -84,7 +84,7 @@ a{
     align-items: center;
     text-align: center;
     justify-content: space-between;
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
 }
 
@@ -120,7 +120,7 @@ a{
 .nav2S{
     display: flex;
     justify-content: space-between;
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
 }
 
@@ -130,7 +130,6 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 15px
 }
 
 .nav2S .txt2{
@@ -173,4 +172,13 @@ a{
 
 #link:hover{
     color: black;
+}
+
+#link{
+    font-size: 14px;
+}
+
+.links{
+    display: flex;
+    gap: 10px;
 }
